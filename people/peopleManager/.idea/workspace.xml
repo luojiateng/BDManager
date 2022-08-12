@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9e1d1c1d-2e5f-4add-ab58-40035ffa79fb" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:\IDEA\ideaIU-2020.2\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="22vH36RG7aCr22221nBCxFkeOma" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\workspace\OtherPeropleCode\peopleManager\src" />
+      <recent name="E:\workspace\OtherPeropleCode\peopleManager" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\workspace\OtherPeropleCode\peopleManager" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Start">
+    <configuration name="ShowTeacher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="peopleManager.view.teacher.ShowTeacher" />
+      <module name="peopleManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peopleManager.view.teacher.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Start" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="peopleManager.Start" />
+      <module name="peopleManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peopleManager.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EducationDao.tea" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="peopleManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peopleManager.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peopleManager.dao" />
+      <option name="MAIN_CLASS_NAME" value="peopleManager.dao.EducationDao" />
+      <option name="METHOD_NAME" value="tea" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FamilyDao.tes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="peopleManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peopleManager.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peopleManager.dao" />
+      <option name="MAIN_CLASS_NAME" value="peopleManager.dao.FamilyDao" />
+      <option name="METHOD_NAME" value="tes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PADao.tes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="peopleManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peopleManager.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peopleManager.dao" />
+      <option name="MAIN_CLASS_NAME" value="peopleManager.dao.PADao" />
+      <option name="METHOD_NAME" value="tes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TeacherDao.tes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="peopleManager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="peopleManager.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="peopleManager.dao" />
+      <option name="MAIN_CLASS_NAME" value="peopleManager.dao.TeacherDao" />
+      <option name="METHOD_NAME" value="tes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TeacherDao.tes" />
+        <item itemvalue="Application.ShowTeacher" />
+        <item itemvalue="JUnit.PADao.tes" />
+        <item itemvalue="JUnit.FamilyDao.tes" />
+        <item itemvalue="JUnit.EducationDao.tea" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9e1d1c1d-2e5f-4add-ab58-40035ffa79fb" name="Changes" comment="" />
+      <created>1640710940470</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1640710940470</updated>
+      <workItem from="1640710941816" duration="2146000" />
+      <workItem from="1640745267317" duration="707000" />
+      <workItem from="1640745989634" duration="21282000" />
+      <workItem from="1640783617876" duration="17463000" />
+      <workItem from="1640834063072" duration="29594000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
