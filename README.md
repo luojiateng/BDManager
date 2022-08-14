@@ -1,5 +1,7 @@
 > Java、Mysql、JavaGUI、Swing
 
+一共五个项目
+
 项目运行前检查：
 
 Jdk 1.8
